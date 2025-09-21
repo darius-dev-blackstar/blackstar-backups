@@ -1,0 +1,9 @@
+{
+    "backup_type": "full",
+    "timestamp": "20250921_173524",
+    "original_file": "blackstar_full_backup_20250921_173516.tar.gz",
+    "file_size": "15M",
+    "created_by": "ubuntu",
+    "server": "ip-172-31-21-46",
+    "description": "Backup automático subido a GitHub"
+}
